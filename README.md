@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Benjamin Manjolo</h1>
+<h1 align="center">Hi , I'm Benjamin Manjolo</h1>
 <h3 align="center">A passionate backend developer in the making 🚀</h3>
 
 ---
 
-### 💡 About Me
-- 👀 I’m deeply interested in **software development** and system design  
-- 🌱 Currently learning **backend development** (Node.js, Express, C++, databases...)  
-- 💞️ Looking to collaborate on **open-source projects**, APIs, and backend tools  
-- 😄 Pronouns: *He/Him*  
-- ⚡ Fun fact: I love solving problems and building things that scale  
-- 📫 Reach me: [Email](mailto:Benjaminmanjolo39@gmail.com) | [LinkedIn]https://www.linkedin.com/in/benjamin-manjolo-b86567238/) 
+###  About Me
+-  I’m deeply interested in **software development** and system design  
+-  Currently learning **backend development** (Node.js, Express, C++, databases...)  
+-  Looking to collaborate on **open-source projects**, APIs, and backend tools  
+-  Fun fact: I love solving problems and building things that scale  
+-  Reach me: [Email]Benjaminmanjolo39@gmail.com | [LinkedIn]https://www.linkedin.com/in/benjamin-manjolo-b86567238/) 
 
 ---
 
