@@ -1,6 +1,3 @@
-<h1 align="center">Hi , I'm Benjamin Manjolo</h1>
-<h3 align="center">A passionate backend developer in the making 🚀</h3>
-
 ---
 
 ###  About Me
