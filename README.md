@@ -4,11 +4,8 @@
 ---
 
 ###  About Me
--  I’m deeply interested in **software development** and system design  
--  Currently learning **backend development** (Node.js, Express, C++, databases...)  
--  Looking to collaborate on **open-source projects**, APIs, and backend tools  
--  Fun fact: I love solving problems and building things that scale  
--  Reach me: [Email]Benjaminmanjolo39@gmail.com | [LinkedIn]https://www.linkedin.com/in/benjamin-manjolo-b86567238/) 
+Full-Stack Developer & UI/UX Designer | Building Scalable Apps & Clean Visual Experiences | Brand & Product Design 
+Reach me: [Email]Benjaminmanjolo39@gmail.com 
 
 ---
 
@@ -20,15 +17,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benjamin-Manjolo&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-Manjolo&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 <!---
 Benjamin-Manjolo/Benjamin-Manjolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
