@@ -1,10 +1,3 @@
----
-
-###  About Me
-Full-Stack Developer & UI/UX Designer | Building Scalable Apps & Clean Visual Experiences | Brand & Product Design 
-Reach me: [Email]Benjaminmanjolo39@gmail.com 
-
----
 
 ### 🛠️ Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
